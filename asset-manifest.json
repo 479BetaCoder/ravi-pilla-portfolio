@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ravi-pilla-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ravi-pilla-portfolio/static/js/main.a3263c59.chunk.js",
+    "main.js.map": "/ravi-pilla-portfolio/static/js/main.a3263c59.chunk.js.map",
+    "runtime-main.js": "/ravi-pilla-portfolio/static/js/runtime-main.547c202c.js",
+    "runtime-main.js.map": "/ravi-pilla-portfolio/static/js/runtime-main.547c202c.js.map",
+    "static/js/2.0f447a1f.chunk.js": "/ravi-pilla-portfolio/static/js/2.0f447a1f.chunk.js",
+    "static/js/2.0f447a1f.chunk.js.map": "/ravi-pilla-portfolio/static/js/2.0f447a1f.chunk.js.map",
+    "index.html": "/ravi-pilla-portfolio/index.html",
+    "precache-manifest.775e867b3cb5330b5f7ec6cdf5849a19.js": "/ravi-pilla-portfolio/precache-manifest.775e867b3cb5330b5f7ec6cdf5849a19.js",
+    "service-worker.js": "/ravi-pilla-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ravi-pilla-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0f447a1f.chunk.js.LICENSE.txt": "/ravi-pilla-portfolio/static/js/2.0f447a1f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ravi-pilla-portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.547c202c.js",
+    "static/js/2.0f447a1f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a3263c59.chunk.js"
+  ]
+}
