@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02b8f6ed1c0264804a6b70d62bd264c2",
+    "revision": "8653e53c167d6dd1eb121a4f189f3f1d",
     "url": "/ravi-pilla-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ravi-pilla-portfolio/static/css/2.2b052ec0.chunk.css"
   },
   {
-    "revision": "c231ac0b01743883137a",
+    "revision": "5c7e044e9c2a2b9b34aa",
     "url": "/ravi-pilla-portfolio/static/css/main.129dda22.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ravi-pilla-portfolio/static/js/2.ae5d7d73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c231ac0b01743883137a",
-    "url": "/ravi-pilla-portfolio/static/js/main.d688f394.chunk.js"
+    "revision": "5c7e044e9c2a2b9b34aa",
+    "url": "/ravi-pilla-portfolio/static/js/main.e3c7b6fc.chunk.js"
   },
   {
     "revision": "217148fe62c264f70d79",
