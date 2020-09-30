@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ravi-pilla-portfolio/static/css/main.129dda22.chunk.css",
-    "main.js": "/ravi-pilla-portfolio/static/js/main.d994cbd7.chunk.js",
-    "main.js.map": "/ravi-pilla-portfolio/static/js/main.d994cbd7.chunk.js.map",
+    "main.js": "/ravi-pilla-portfolio/static/js/main.1b9df6d4.chunk.js",
+    "main.js.map": "/ravi-pilla-portfolio/static/js/main.1b9df6d4.chunk.js.map",
     "runtime-main.js": "/ravi-pilla-portfolio/static/js/runtime-main.547c202c.js",
     "runtime-main.js.map": "/ravi-pilla-portfolio/static/js/runtime-main.547c202c.js.map",
-    "static/css/2.05a0ae32.chunk.css": "/ravi-pilla-portfolio/static/css/2.05a0ae32.chunk.css",
-    "static/js/2.2811919e.chunk.js": "/ravi-pilla-portfolio/static/js/2.2811919e.chunk.js",
-    "static/js/2.2811919e.chunk.js.map": "/ravi-pilla-portfolio/static/js/2.2811919e.chunk.js.map",
+    "static/css/2.2b052ec0.chunk.css": "/ravi-pilla-portfolio/static/css/2.2b052ec0.chunk.css",
+    "static/js/2.ae5d7d73.chunk.js": "/ravi-pilla-portfolio/static/js/2.ae5d7d73.chunk.js",
+    "static/js/2.ae5d7d73.chunk.js.map": "/ravi-pilla-portfolio/static/js/2.ae5d7d73.chunk.js.map",
     "index.html": "/ravi-pilla-portfolio/index.html",
-    "precache-manifest.9acdf364e8cde7e1c8190ba8cb21ed59.js": "/ravi-pilla-portfolio/precache-manifest.9acdf364e8cde7e1c8190ba8cb21ed59.js",
+    "precache-manifest.5df2b46aea76803d3aff65bf6a565f86.js": "/ravi-pilla-portfolio/precache-manifest.5df2b46aea76803d3aff65bf6a565f86.js",
     "service-worker.js": "/ravi-pilla-portfolio/service-worker.js",
-    "static/css/2.05a0ae32.chunk.css.map": "/ravi-pilla-portfolio/static/css/2.05a0ae32.chunk.css.map",
+    "static/css/2.2b052ec0.chunk.css.map": "/ravi-pilla-portfolio/static/css/2.2b052ec0.chunk.css.map",
     "static/css/main.129dda22.chunk.css.map": "/ravi-pilla-portfolio/static/css/main.129dda22.chunk.css.map",
-    "static/js/2.2811919e.chunk.js.LICENSE.txt": "/ravi-pilla-portfolio/static/js/2.2811919e.chunk.js.LICENSE.txt",
+    "static/js/2.ae5d7d73.chunk.js.LICENSE.txt": "/ravi-pilla-portfolio/static/js/2.ae5d7d73.chunk.js.LICENSE.txt",
     "static/media/BrainsBrain.png": "/ravi-pilla-portfolio/static/media/BrainsBrain.fbad23dd.png",
     "static/media/DeadAlive.png": "/ravi-pilla-portfolio/static/media/DeadAlive.8896559e.png",
     "static/media/Lockme.png": "/ravi-pilla-portfolio/static/media/Lockme.44760c77.png",
@@ -43,9 +43,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.547c202c.js",
-    "static/css/2.05a0ae32.chunk.css",
-    "static/js/2.2811919e.chunk.js",
+    "static/css/2.2b052ec0.chunk.css",
+    "static/js/2.ae5d7d73.chunk.js",
     "static/css/main.129dda22.chunk.css",
-    "static/js/main.d994cbd7.chunk.js"
+    "static/js/main.1b9df6d4.chunk.js"
   ]
 }
