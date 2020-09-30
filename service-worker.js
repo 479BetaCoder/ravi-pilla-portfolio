@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ravi-pilla-portfolio/precache-manifest.0b2e6390baa926856d14a725213652a6.js"
+  "/ravi-pilla-portfolio/precache-manifest.80133a5d576918404967d77ae0412c05.js"
 );
 
 self.addEventListener('message', (event) => {
