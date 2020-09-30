@@ -13,8 +13,8 @@ class App extends React.Component {
       <div className="mainContainer">
         <Header></Header>
         <div>
-          <Route exact path="ravi-pilla-portfolio/" component={About}></Route>
-          <Route path="ravi-pilla-portfolio/projects" component={Projects}></Route>
+          <Route exact path="/" component={About}></Route>
+          <Route path="/projects" component={Projects}></Route>
         </div>
         <Footer></Footer>
       </div>
