@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ravi-pilla-portfolio/static/css/main.129dda22.chunk.css",
-    "main.js": "/ravi-pilla-portfolio/static/js/main.2f8ff4a2.chunk.js",
-    "main.js.map": "/ravi-pilla-portfolio/static/js/main.2f8ff4a2.chunk.js.map",
+    "main.js": "/ravi-pilla-portfolio/static/js/main.16520872.chunk.js",
+    "main.js.map": "/ravi-pilla-portfolio/static/js/main.16520872.chunk.js.map",
     "runtime-main.js": "/ravi-pilla-portfolio/static/js/runtime-main.547c202c.js",
     "runtime-main.js.map": "/ravi-pilla-portfolio/static/js/runtime-main.547c202c.js.map",
     "static/css/2.2b052ec0.chunk.css": "/ravi-pilla-portfolio/static/css/2.2b052ec0.chunk.css",
     "static/js/2.ae5d7d73.chunk.js": "/ravi-pilla-portfolio/static/js/2.ae5d7d73.chunk.js",
     "static/js/2.ae5d7d73.chunk.js.map": "/ravi-pilla-portfolio/static/js/2.ae5d7d73.chunk.js.map",
     "index.html": "/ravi-pilla-portfolio/index.html",
-    "precache-manifest.a7c900cb28bdb5ea7fa0810690dc81cb.js": "/ravi-pilla-portfolio/precache-manifest.a7c900cb28bdb5ea7fa0810690dc81cb.js",
+    "precache-manifest.0dbfd1ebcb34821aa485d5f9f74fadc6.js": "/ravi-pilla-portfolio/precache-manifest.0dbfd1ebcb34821aa485d5f9f74fadc6.js",
     "service-worker.js": "/ravi-pilla-portfolio/service-worker.js",
     "static/css/2.2b052ec0.chunk.css.map": "/ravi-pilla-portfolio/static/css/2.2b052ec0.chunk.css.map",
     "static/css/main.129dda22.chunk.css.map": "/ravi-pilla-portfolio/static/css/main.129dda22.chunk.css.map",
@@ -46,6 +46,6 @@
     "static/css/2.2b052ec0.chunk.css",
     "static/js/2.ae5d7d73.chunk.js",
     "static/css/main.129dda22.chunk.css",
-    "static/js/main.2f8ff4a2.chunk.js"
+    "static/js/main.16520872.chunk.js"
   ]
 }
