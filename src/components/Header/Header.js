@@ -13,12 +13,12 @@ export default class Header extends React.Component {
           </div>
           <ul className="nav-right">
             <li className="list-item">
-              <NavLink exact activeClassName="active-list-item" className="transition-link" to="/">
+              <NavLink exact activeClassName="active-list-item" className="transition-link" to="ravi-pilla-portfolio/">
                 About
               </NavLink>
             </li>
             <li className="list-item">
-              <NavLink activeClassName="active-list-item" className="transition-link" to="/projects">
+              <NavLink activeClassName="active-list-item" className="transition-link" to="ravi-pilla-portfolio/projects">
                 Projects
               </NavLink>
             </li>
