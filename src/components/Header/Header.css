@@ -1,0 +1,66 @@
+.headerContainer {
+    padding-left: 4em;
+    padding-right: 4em;
+}
+.nav-right {
+float: right;
+}
+.list-item {
+    list-style: none;
+}
+ul {
+    margin-top: 0px !important;
+}
+.list-item a {
+    font-size: 1em;
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 1.25em;
+    font-weight: 700;
+}
+
+.initialHolder {
+    border: 2px solid #000;
+    padding: 1em;
+}
+
+.initialHolder:hover {
+    cursor: pointer;
+    background-color: #000;
+}
+
+.initialHolder:hover label {
+    cursor: pointer;
+    color: #fff
+}
+
+.list-item a:hover{
+    border-bottom: 2px solid #ab2537fa
+}
+.list-item a:active{
+    border-bottom: 2px solid #ab2537fa
+}
+
+.active-list-item{
+    border-bottom: 2px solid #ab2537fa
+}
+
+
+
+.nav-container {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.list-item:not(:first-child) {
+    margin-left: 2em;
+}

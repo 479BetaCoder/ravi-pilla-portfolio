@@ -1,0 +1,91 @@
+.projectsHdrContainer {
+   display: flex;
+   justify-content: center;
+   max-width: 80em;
+   padding: 2em;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.projectsHdrContainer h1 {
+    font-size: 2em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+.projectBorder {
+    border-top: 1px solid #f0eeee;
+}
+
+.projectSpace {
+    margin-bottom: 4em;
+    margin-top: 2em;
+}
+
+.projectList {
+    padding-top: 4em;
+    padding-bottom: 2em;
+}
+
+.projectsContainer {
+    max-width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.projectsContainer h3 {
+    line-height: 1em;
+    margin-bottom: 2em;
+}
+
+/* Need to work on */
+/* ul.no-bullet li {
+    list-style: none;
+}
+
+.project-list li {
+    padding-top: 3em;
+    padding-bottom: 1em;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #f0eeee;
+}
+
+li {
+    margin-bottom: 1.5em;
+    padding-bottom: 2em;
+} */
+
+.projectSliderContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.projectShowCase {
+    width: 90%;
+    padding-bottom: 1em;
+}
+
+.projectDescription {
+    padding-top: 1em;
+    max-width: 80em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btnSeeProject {
+    border-radius: 5px;
+    border: 1px solid #ab2537fa;
+    padding: 1em 1em;
+    display: inline-block;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 1em;
+    transition: all .25s ease;
+    font-family: Georgia,times new roman,Times,serif;
+    -webkit-font-smoothing: antialiased;
+}
+

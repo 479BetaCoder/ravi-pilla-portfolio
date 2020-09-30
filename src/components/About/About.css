@@ -1,0 +1,103 @@
+.avatar {
+  height: 8em;
+  width: 8em;
+  border-radius: 4em;
+  align-items: center;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+
+@media (min-width: 600px) {
+  .avatar {
+    height: 10em;
+    width: 10em;
+    border-radius: 5em;
+    align-items: center;
+    box-shadow: 5px 5px 5px lightgrey;
+  }
+}
+
+.introContainer {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+  font-weight: 700;
+}
+
+.avatarContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.splMention {
+  color: #ab2537fa;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.aboutContainer {
+  max-width: 60em;
+  padding: 2em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.bar {
+  align-items: flex-end;
+  background-color: #eee;
+  color: #000;
+  position: relative;
+  font-size: 7pt;
+  height: 22px;
+  margin: 0 0 12px 0;
+  max-width: 90%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.bar.fill {
+  left: 0;
+  position: absolute;
+  top: 0;
+  background-color: #291c26a6;
+  opacity: 1;
+  padding: 0;
+}
+
+.networkAvatar {
+  height: 2em;
+  width: 2em;
+  border-radius: 1em;
+  padding: 0.3em;  
+}
+
+.networkContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.bar .tag {
+  background-color: #ab2537fa;
+  color: #fff;
+  height: 100%;
+  width: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.toolSetContainer {
+  padding-left: 1em;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.bar span {
+  padding: 0 15px 0 0;
+}
