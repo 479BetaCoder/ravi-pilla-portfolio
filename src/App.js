@@ -9,12 +9,12 @@ import Footer from "./components/Footer/Footer";
 class App extends React.Component {
   render() {
     return (
-      <BrowserRouter basename="ravi-pilla-portfolio/#">
+      <BrowserRouter basename="ravi-pilla-portfolio">
       <div className="mainContainer">
         <Header></Header>
         <div>
-          <Route exact path="/" component={About}></Route>
-          <Route path="/projects" component={Projects}></Route>
+          <Route exact path="/#" component={About}></Route>
+          <Route path="/#projects" component={Projects}></Route>
         </div>
         <Footer></Footer>
       </div>
