@@ -9,7 +9,7 @@ import Footer from "./components/Footer/Footer";
 class App extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="ravi-pilla-portfolio">
       <div className="mainContainer">
         <Header></Header>
         <div>
